@@ -1,8 +1,5 @@
-// import { LoginPage } from "./login/page"
-
 import { UserButton } from "@clerk/nextjs";
 import { auth } from "@clerk/nextjs/server";
-import { dark } from "@clerk/themes";
 import { redirect } from "next/navigation";
 
 const Home = async () => {
