@@ -50,7 +50,5 @@ enum TransactionPaymentMethod {
   BANK_SLIP
   CASH
   PIX
-  PAYPAL
-  CHEQUE
   OTHER
 }
